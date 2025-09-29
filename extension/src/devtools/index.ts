@@ -1,5 +1,5 @@
 chrome.devtools.panels.create(
-  'Redux',
+  'Magesh Redux',
   'img/logo/scalable.png',
   'devpanel.html',
   () => {

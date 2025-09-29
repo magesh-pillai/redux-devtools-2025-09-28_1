@@ -25,7 +25,7 @@ class App extends Component<Props> {
         <div style={{ padding: '20px', width: '100%', textAlign: 'center' }}>
           No store found. Make sure to follow{' '}
           <a
-            href="https://github.com/zalmoxisus/redux-devtools-extension#usage"
+            href="https://github.com/magesh-pillai/redux-devtools-2025-09-28_1#usage"
             target="_blank"
             rel="noreferrer"
           >

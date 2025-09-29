@@ -65,7 +65,7 @@ function renderNA() {
       <div style={messageStyle}>
         No store found. Make sure to follow{' '}
         <a
-          href="https://github.com/zalmoxisus/redux-devtools-extension#usage"
+          href="https://github.com/magesh-pillai/redux-devtools-2025-09-28_1#usage"
           target="_blank"
           rel="noreferrer"
         >
@@ -86,7 +86,7 @@ function renderNA() {
             <div style={messageStyle}>
               No store found. Most likely you did not allow access to file URLs.{' '}
               <a
-                href="https://github.com/zalmoxisus/redux-devtools-extension/blob/master/docs/Troubleshooting.md#access-file-url-file"
+                href="https://github.com/magesh-pillai/redux-devtools-2025-09-28_1/blob/main/extension/docs/Troubleshooting.md#access-file-url-file"
                 target="_blank"
                 rel="noreferrer"
               >
